@@ -1,9 +1,12 @@
 #2.1.1.6 LABORATORIO: La función print()
 ''' Nombre: Fabio Alonso Sánchez García
     Descripcion: Utiliza la función print() para imprimir la linea 
-    "¡Hola, Mundo!" en la pantalla.
+    "¡Hola, Mundo!" en la pantalla, utiliza el print en todo momento.
     Fecha: 19 de septiembre'''
 print("¡Hola Mundo")
+print("Fabio Alonso Sánchez García")
+print(Fabio)
+print Fabio
 
 #2.1.1.18 LABORATORIO: Dando formato a la salida
 ''' Nombre: Fabio Alonso Sánchez García
