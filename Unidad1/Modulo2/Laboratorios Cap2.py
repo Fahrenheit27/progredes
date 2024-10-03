@@ -3,8 +3,7 @@
     Descripcion: Utiliza la función print() para imprimir la linea 
     "¡Hola, Mundo!" en la pantalla.
     Fecha: 19 de septiembre'''
-print("Fundamentos","Programación","en", sep="***", end="...")
-print("Python")
+print("¡Hola Mundo")
 
 #2.1.1.18 LABORATORIO: Dando formato a la salida
 ''' Nombre: Fabio Alonso Sánchez García
